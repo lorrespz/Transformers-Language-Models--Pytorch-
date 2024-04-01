@@ -7,7 +7,7 @@ This repo contains a collection of codes for implementing various advanced Langu
    - Transformers_Decoder_(GPT_like)_architecture.ipynb
 
 3. *Encoder-Decoder (Seq2Seq-like models)*
-  - Encoder_Decoder_(from_scratch)_for_Language_Translation.ipynb
+   - Encoder_Decoder_(from_scratch)_for_Language_Translation.ipynb
 
 4. *Seq2Seq based on LSTM for language translation (TensorFlow)*
    - Seq2Seq_LSTM2LSTM_Language_Translation_[TensorFlow].ipynb
